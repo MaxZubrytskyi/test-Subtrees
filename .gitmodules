@@ -1,0 +1,9 @@
+[submodule "freeCodeCamp"]
+	path = freeCodeCamp
+	url = https://github.com/freeCodeCamp/freeCodeCamp.git
+[submodule "free-programming-books"]
+	path = free-programming-books
+	url = https://github.com/EbookFoundation/free-programming-books.git
+[submodule "coding-interview-university"]
+	path = coding-interview-university
+	url = https://github.com/jwasham/coding-interview-university.git
