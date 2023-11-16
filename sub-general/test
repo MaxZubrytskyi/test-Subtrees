@@ -1,2 +1,6 @@
 test1
+<<<<<<< HEAD
 addng cahnges from test-Subtrees repo
+=======
+now this is change from sub-general repo
+>>>>>>> 8f7264c03eacabe27d3187c3fbecf7b181924dc8
